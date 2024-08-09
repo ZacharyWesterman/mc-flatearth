@@ -1,0 +1,427 @@
+A:18-42
+dirt
+grass
+sand
+gravel
+cobblestone
+stone
+andesite
+diorite
+granite
+dk oak planks
+dk oak log
+birch planks
+birch log
+oak planks
+oak log
+spruce planks
+spruce log
+acacia planks
+acacia log
+jungle planks
+jungle log
+white concrete
+lt gray concrete
+gray concrete
+blue concrete
+
+B:22-39
+crck stone bricks
+mossy stone brick
+pol andesite
+pol diorite
+pol granite
+packed ice
+snow
+tuff
+stone bricks
+smooth stone
+warped wart block
+nether wart block
+soul sand
+soul soil
+quartz bricks
+quartz block
+pink concrete
+red concrete
+
+C:22-39
+mossy cobble
+obsidian
+blackstone
+pol blkstn brk
+pol cr blkstn brk
+gilded blackstone
+brick block
+clay
+chsl stone bricks
+end stone
+magma block
+netherrack
+chest
+scaffolding
+furnace
+crafting table
+blaze powder
+blaze rod
+
+D:7-42
+flint
+coal
+iron ingot
+iron block
+gold ingot
+gold block
+copper ingot
+copper block
+redst dust
+redst block
+diamond
+emerald
+raw copper
+raw gold
+raw iron
+gunpowder
+magma cream
+string
+rotten flesh
+ender pearl
+bone
+feather
+phantom membrane
+leather
+slimeball
+ghast tear
+spider eye
+fermd spider eye
+glowstone dust
+shroomlight
+red mush block
+brown mush block
+mushroom stem
+crim planks
+crim stem
+crim nylium
+
+
+
+E:19-42
+glowstone
+iron nugget
+gold nugget
+snowball
+nautilus shell
+barrel
+white wool
+chain
+item frame
+lead
+stick
+iron bars
+illager banner
+ladder
+nether quartz
+torch
+cobble stairs
+dk oak stairs
+stone brick stair
+oak stairs
+nether brick blk
+rail
+powered rail
+activator rail
+
+F:22-39
+sugar
+pufferfish
+salmon
+cod
+tropical fish
+pumpkin pie
+melon
+beetroot
+sugar canes
+golden apple
+golden carrot
+dandelion
+chorus fruit
+sea pickle
+cactus
+kelp
+sunflower
+rose bush
+
+
+G:22-39
+pumpkin
+carved pumpkin
+sweet berries
+apple
+carrot
+potato
+baked potato
+beef
+porkchop
+mutton
+honeycomb
+chicken
+egg
+wheat
+bread
+hay bale
+poisonous potato
+big dripleaf
+
+H:7-42
+nether wart
+beetroot seeds
+seeds
+cocoa beans
+melon seeds
+pumpkin seeds
+bamboo
+vines
+lily pad
+wither rose
+weeping vines
+twisting vines
+crim roots
+warped roots
+crim fungus
+warped fungus
+brown mushroom
+red mushroom
+jungle leaves
+oak leaves
+birch sapling
+jungle sapling
+spruce sapling
+oak sapling
+dk oak sapling
+white tulip
+lilac
+pink tulip
+red tulip
+orange tulip
+peony
+blue orchid
+azure bluet
+cornflower
+oxeye daisy
+poppy
+
+I:18-42
+honeycomb block
+smooth basalt
+amethyst shard
+blast furnace
+calcite
+crying obsidian
+honey block
+purpur block
+purpur pillar
+end stone bricks
+blue ice
+ice
+observer
+dropper
+hopper
+redst lamp
+redst comparator
+redst repeater
+redst torch
+button
+pressure plate
+dispenser
+piston
+wall
+lantern
+
+J:22-39
+amethyst block
+deepslate brk
+cobbled deepslate
+pol deepslate
+deepslate
+dripstone blk
+spruce slab
+dk oak slab
+blackstone slab
+andesite slab
+purpur slab
+crim slab
+birch slab
+oak slab
+bone meal
+bone block
+prismarine brk
+end rod
+
+K:22-39
+glass
+red stn gls
+orange stn gls
+yellow stn gls
+lime stn gls
+green stn gls
+lt blue stn gls
+blue stn gls
+purple stn gls
+magenta stn gls
+sandstone
+bucket
+paper
+arrow
+sign
+rooted dirt
+stn gls pane
+lt blu gls pane
+
+L:8-42
+red dye
+orange dye
+yellow dye
+lime dye
+green dye
+cyan dye
+blue dye
+light blue dye
+purple dye
+magenta dye
+pink dye
+white dye
+light gray dye
+gray dye
+ink sac
+glow ink sac
+lapis lazuli
+shulker shell
+basalt
+fence gate
+name tag
+dragon's breath
+azalea
+flowering azalea
+stairs
+spore blossom
+glow berries
+moss block
+glass bottle
+coral fan (yel)
+coral fan (red)
+coral fan (pnk)
+coral fan (pur)
+coral fan (blu)
+fence
+
+M:19-44
+cherry log
+cherry planks
+cherry leaves
+cobble deepsl str
+smooth sandstn
+terracotta
+orange terra
+yellow terra
+red terra
+blue terra
+nether brick
+oak trapdoor
+bookshelf
+birch fence
+stone slab
+detector rail
+pillar qtz blk
+glow lichen
+spruce stairs
+spruce sign
+crim trapdoor
+warped stem
+blk concrete
+brick
+rabbit hide
+spruce press plt
+
+N:22-40
+blkstn slab
+birch trapdoor
+crim sign
+dk oak button
+note block
+cobble wall
+pol granite str
+warped planks
+blk conc powder
+spruce fence
+rocket
+bamboo block
+bamboo mosaic
+white carpet
+iron door
+spruce trapdoor
+tripwire
+stripped dk oak
+sponge
+
+O:22-40
+quartz stairs
+deepslate tiles
+bottle o' enchant
+iron press plate
+blkstn wall
+stonecutter
+lever
+white stn gls
+oak button
+arrow slowness
+slime block
+sandstone stair
+mangrove stair
+birch fence gate
+spruce fence gt
+oak fence gate
+birch sign
+crim door
+iron ore
+
+P:5-44
+Prismarine
+Prismarine Shard
+Prismarine Crstl
+Sea Lantern
+Dk Prismarine
+Mangrove Roots
+Mangrove Log
+Mangrove Planks
+Pearl Froglight
+Ochre Froglight
+Virid Froglight
+Chorus Flower
+Sculk
+Cauldron
+Book
+Glistering Melon
+Smth Sandstn Str
+Podzol
+Pointed Dripstone
+Pol Diorite Slab
+Pol Diorite Str
+Glass Pane
+Stripped Birch
+Stone Stairs
+Target
+Orange Concrete
+Moss carpet
+Stripped Jungle
+fire charge
+Stripped Acacia
+Empty Map
+Warped Trapdoor
+Spruce Leaves
+Grey Concrete
+Dk Oak Fence
+Purpur Stairs
+Stripped Oak Log
+Chiseled Qtz Blk
+Jungle Press Plt
+Dk Oak Press Plt

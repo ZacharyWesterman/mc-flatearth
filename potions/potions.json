@@ -1,0 +1,91 @@
+{
+	"chapters": {
+		"basics": "The Basics",
+		"potions": "Potions",
+		"poisons": "Poisons"
+	},
+
+	"potions": [
+		{
+			"name": "Healing",
+			"chapter": "potions",
+			"enhance": true,
+			"recipe": ["Glistering Melon"]
+		},
+		{
+			"name": "Fire Resistance",
+			"chapter": "potions",
+			"extend": true,
+			"duration": 180,
+			"recipe": ["Magma Cream"]
+		},
+		{
+			"name": "Regeneration",
+			"chapter": "potions",
+			"extend": true,
+			"enhance": true,
+			"duration": 45,
+			"recipe": ["Ghast Tear"]
+		},
+		{
+			"name": "Strength",
+			"chapter": "potions",
+			"extend": true,
+			"enhance": true,
+			"duration": 180,
+			"recipe": ["Blaze Powder"]
+		},
+		{
+			"name": "Swiftness",
+			"chapter": "potions",
+			"extend": true,
+			"enhance": true,
+			"duration": 180,
+			"recipe": ["Sugar"]
+		},
+		{
+			"name": "Night Vision",
+			"chapter": "potions",
+			"extend": true,
+			"duration": 180,
+			"recipe": ["Golden Carrot"]
+		},
+		{
+			"name": "Invisibility",
+			"chapter": "potions",
+			"extend": true,
+			"duration": 180,
+			"recipe": ["Golden Carrot", "Fermented Spider Eye"]
+		},
+		{
+			"name": "Water Breathing",
+			"chapter": "potions",
+			"extend": true,
+			"duration": 180,
+			"recipe": ["Pufferfish"]
+		},
+		{
+			"name": "Leaping",
+			"chapter": "potions",
+			"extend": true,
+			"enhance": true,
+			"duration": 180,
+			"recipe": ["Rabbit's Foot"]
+		},
+		{
+			"name": "Slow Falling",
+			"chapter": "potions",
+			"extend": true,
+			"duration": 90,
+			"recipe": ["Phantom Membrane"]
+		},
+		{
+			"name": "Turtle Master",
+			"chapter": "potions",
+			"extend": true,
+			"enhance": true,
+			"duration": 20,
+			"recipe": ["Turtle Shell"]
+		}
+	]
+}

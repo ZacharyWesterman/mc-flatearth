@@ -1,0 +1,23 @@
+in console:
+tickingarea add -10 0 -10 10 0 10 spawn
+fill -10 101 -10 10 101 10 glass
+clear
+tp 0 105 0
+
+
+requires one-time input:
+
+tp @p -292 63 0
+summon armor_stand colgen -292 63 0
+
+
+repeat command chains:
+
+execute @e[type=armor_stand,name=colgen] ~~~ fill ~ 63 -292 ~ 100 292 air
+execute @e[type=armor_stand,name=colgen] ~~~ fill ~ 62 -292 ~ 62 292 stone
+
+testfor @e[type=armor_stand,name=colgen,x=293,z=0,y=63,r=1]
+kill @e[type=armor_stand,name=colgen]
+
+execute @e[type=armor_stand,name=colgen] ~~~ tp ~1 ~ ~
+execute @e[type=armor_stand,name=colgen] ~~~ tp @p ~ ~2 ~ -90 0

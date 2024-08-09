@@ -1,0 +1,422 @@
+A36 : acacia log
+A35 : acacia planks
+E42 : activator rail
+J22 : amethyst block
+I20 : amethyst shard
+A24 : andesite
+J31 : andesite slab
+G25 : apple
+K35 : arrow
+O31 : arrow slowness
+L30 : azalea
+H39 : azure bluet
+G28 : baked potato
+H13 : bamboo
+
+N33 : bamboo block
+N34 : bamboo mosaic
+E24 : barrel
+L26 : basalt
+G29 : beef
+F29 : beetroot
+H08 : beetroot seeds
+G39 : big dripleaf
+M32 : birch fence
+O35 : birch fence gate
+A30 : birch log
+A29 : birch planks
+H27 : birch sapling
+
+O38 : birch sign
+J34 : birch slab
+N23 : birch trapdoor
+C24 : blackstone
+J30 : blackstone slab
+I21 : blast furnace
+C38 : blaze powder
+C39 : blaze rod
+N30 : blk conc powder
+M41 : blk concrete
+N22 : blkstn slab
+O26 : blkstn wall
+A42 : blue concrete
+
+L14 : blue dye
+I28 : blue ice
+H38 : blue orchid
+K29 : blue stn gls
+M28 : blue terra
+D27 : bone
+J37 : bone block
+J36 : bone meal
+P19 : book
+M31 : bookshelf
+O24 : bottle o' enchant
+G36 : bread
+M42 : brick
+C28 : brick block
+
+D38 : brown mush block
+H23 : brown mushroom
+K33 : bucket
+I37 : button
+F36 : cactus
+I22 : calcite
+G26 : carrot
+G23 : carved pumpkin
+P18 : cauldron
+E26 : chain
+M21 : cherry leaves
+M19 : cherry log
+M20 : cherry planks
+C34 : chest
+
+G33 : chicken
+P42 : chiseled qtz blk
+P16 : chorus flower
+F34 : chorus fruit
+C30 : chsl stone bricks
+C29 : clay
+D08 : coal
+M22 : cobble deepsl str
+E35 : cobble stairs
+N27 : cobble wall
+J24 : cobbled deepslate
+A22 : cobblestone
+
+H10 : cocoa beans
+F25 : cod
+D14 : copper block
+D13 : copper ingot
+L41 : coral fan (blu)
+L39 : coral fan (pnk)
+L40 : coral fan (pur)
+L38 : coral fan (red)
+L37 : coral fan (yel)
+H40 : cornflower
+C37 : crafting table
+B22 : crck stone bricks
+O39 : crim door
+
+H21 : crim fungus
+D42 : crim nylium
+D40 : crim planks
+H19 : crim roots
+N24 : crim sign
+J33 : crim slab
+D41 : crim stem
+M39 : crim trapdoor
+I23 : crying obsidian
+L13 : cyan dye
+F33 : dandelion
+J26 : deepslate
+J23 : deepslate brk
+O23 : deepslate tiles
+
+M34 : detector rail
+D17 : diamond
+A25 : diorite
+A18 : dirt
+I39 : dispenser
+N25 : dk oak button
+P39 : dk oak fence
+A28 : dk oak log
+A27 : dk oak planks
+P44 : dk oak press plt
+H31 : dk oak sapling
+J29 : dk oak slab
+E36 : dk oak stairs
+
+P09 : dk prismarine
+L29 : dragon's breath
+J27 : dripstone blk
+I31 : dropper
+G34 : egg
+D18 : emerald
+P35 : empty map
+J39 : end rod
+C31 : end stone
+I27 : end stone bricks
+D26 : ender pearl
+D28 : feather
+L42 : fence
+L27 : fence gate
+
+D34 : fermd spider eye
+P33 : fire charge
+D07 : flint
+L31 : flowering azalea
+C36 : furnace
+D32 : ghast tear
+C27 : gilded blackstone
+K22 : glass
+L36 : glass bottle
+P26 : glass pane
+P20 : glistering melon
+L34 : glow berries
+L23 : glow ink sac
+
+M36 : glow lichen
+E19 : glowstone
+D35 : glowstone dust
+D12 : gold block
+D11 : gold ingot
+E21 : gold nugget
+F31 : golden apple
+F32 : golden carrot
+A26 : granite
+A19 : grass
+A21 : gravel
+A41 : gray concrete
+L21 : gray dye
+L12 : green dye
+
+K27 : green stn gls
+P38 : grey concrete
+D22 : gunpowder
+G37 : hay bale
+I24 : honey block
+G32 : honeycomb
+I18 : honeycomb block
+I32 : hopper
+I29 : ice
+E31 : illager banner
+L22 : ink sac
+E30 : iron bars
+D10 : iron block
+N36 : iron door
+
+D09 : iron ingot
+E20 : iron nugget
+O40 : iron ore
+O25 : iron press plate
+E27 : item frame
+H25 : jungle leaves
+A38 : jungle log
+A37 : jungle planks
+P43 : jungle press plt
+H28 : jungle sapling
+F37 : kelp
+E32 : ladder
+I42 : lantern
+
+L24 : lapis lazuli
+E28 : lead
+D30 : leather
+O28 : lever
+L15 : light blue dye
+L20 : light gray dye
+H33 : lilac
+H15 : lily pad
+L11 : lime dye
+K26 : lime stn gls
+K39 : lt blu gls pane
+K28 : lt blue stn gls
+A40 : lt gray concrete
+L17 : magenta dye
+
+K31 : magenta stn gls
+C32 : magma block
+D23 : magma cream
+P11 : mangrove log
+P12 : mangrove planks
+P10 : mangrove roots
+O34 : mangrove stair
+F28 : melon
+H11 : melon seeds
+L35 : moss block
+P31 : moss carpet
+C22 : mossy cobble
+
+B23 : mossy stone brick
+D39 : mushroom stem
+G31 : mutton
+L28 : name tag
+E23 : nautilus shell
+M29 : nether brick
+E39 : nether brick blk
+E33 : nether quartz
+H07 : nether wart
+B33 : nether wart block
+C33 : netherrack
+N26 : note block
+O30 : oak button
+
+O37 : oak fence gate
+H26 : oak leaves
+A32 : oak log
+A31 : oak planks
+H30 : oak sapling
+J35 : oak slab
+E38 : oak stairs
+M30 : oak trapdoor
+I30 : observer
+C23 : obsidian
+P14 : ochre froglight
+P30 : orange concrete
+L09 : orange dye
+K24 : orange stn gls
+
+M25 : orange terra
+H36 : orange tulip
+H41 : oxeye daisy
+B27 : packed ice
+K34 : paper
+P13 : pearl froglight
+H37 : peony
+D29 : phantom membrane
+M35 : pillar qtz blk
+B38 : pink concrete
+L18 : pink dye
+H34 : pink tulip
+I40 : piston
+P22 : podzol
+
+P23 : pointed dripstone
+G38 : poisonous potato
+B24 : pol andesite
+C25 : pol blkstn brk
+C26 : pol cr blkstn brk
+J25 : pol deepslate
+B25 : pol diorite
+P24 : pol diorite slab
+P25 : pol diorite str
+B26 : pol granite
+N28 : pol granite str
+
+H42 : poppy
+G30 : porkchop
+G27 : potato
+E41 : powered rail
+I38 : pressure plate
+P05 : prismarine
+J38 : prismarine brk
+P07 : prismarine crstl
+P06 : prismarine shard
+F23 : pufferfish
+G22 : pumpkin
+F27 : pumpkin pie
+H12 : pumpkin seeds
+L16 : purple dye
+
+K30 : purple stn gls
+I25 : purpur block
+I26 : purpur pillar
+J32 : purpur slab
+P40 : purpur stairs
+B37 : quartz block
+B36 : quartz bricks
+O22 : quartz stairs
+M43 : rabbit hide
+E40 : rail
+D19 : raw copper
+D20 : raw gold
+D21 : raw iron
+
+B39 : red concrete
+L08 : red dye
+D37 : red mush block
+H24 : red mushroom
+K23 : red stn gls
+M27 : red terra
+H35 : red tulip
+D16 : redst block
+I34 : redst comparator
+D15 : redst dust
+I33 : redst lamp
+I35 : redst repeater
+I36 : redst torch
+N32 : rocket
+
+K37 : rooted dirt
+F39 : rose bush
+D25 : rotten flesh
+F24 : salmon
+A20 : sand
+K32 : sandstone
+O33 : sandstone stair
+C35 : scaffolding
+P17 : sculk
+P08 : sea lantern
+F35 : sea pickle
+H09 : seeds
+D36 : shroomlight
+L25 : shulker shell
+
+K36 : sign
+O32 : slime block
+D31 : slimeball
+I19 : smooth basalt
+M23 : smooth sandstn
+B31 : smooth stone
+P21 : smth sandstn str
+B28 : snow
+E22 : snowball
+B34 : soul sand
+B35 : soul soil
+D33 : spider eye
+N40 : sponge
+L33 : spore blossom
+
+N31 : spruce fence
+O36 : spruce fence gt
+P37 : spruce leaves
+A34 : spruce log
+A33 : spruce planks
+M44 : spruce press plt
+H29 : spruce sapling
+M38 : spruce sign
+J28 : spruce slab
+M37 : spruce stairs
+N37 : spruce trapdoor
+L32 : stairs
+
+E29 : stick
+K38 : stn gls pane
+A23 : stone
+E37 : stone brick stair
+B30 : stone bricks
+M33 : stone slab
+P28 : stone stairs
+O27 : stonecutter
+D24 : string
+P34 : stripped acacia
+P27 : stripped birch
+N39 : stripped dk oak
+P32 : stripped jungle
+
+P41 : stripped oak log
+F22 : sugar
+F30 : sugar canes
+F38 : sunflower
+G24 : sweet berries
+P29 : target
+M24 : terracotta
+E34 : torch
+N38 : tripwire
+F26 : tropical fish
+B29 : tuff
+H18 : twisting vines
+H14 : vines
+P15 : virid froglight
+
+I41 : wall
+H22 : warped fungus
+N29 : warped planks
+H20 : warped roots
+M40 : warped stem
+P36 : warped trapdoor
+B32 : warped wart block
+H17 : weeping vines
+G35 : wheat
+N35 : white carpet
+A39 : white concrete
+L19 : white dye
+O29 : white stn gls
+
+H32 : white tulip
+E25 : white wool
+H16 : wither rose
+L10 : yellow dye
+K25 : yellow stn gls
+M26 : yellow terra

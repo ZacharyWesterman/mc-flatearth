@@ -1,0 +1,9 @@
+TRASH
+§4Any items put in this chest will be DESTROYED!
+
+§
+
+4: M N O P
+3: I J K L
+2: E F G H
+1: A B C D
